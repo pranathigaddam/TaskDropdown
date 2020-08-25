@@ -5,7 +5,6 @@ function App() {
   return (
     <React.Fragment>
       <Dropdown />
-      {/* <div>Hello</div> */}
     </React.Fragment>
   );
 }
